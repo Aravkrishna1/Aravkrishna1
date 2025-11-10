@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aravkrishna1
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning full stack python
+- 👀 I’m interested in development
+- 🌱 I’m currently working as a salesforce Developer
 - 💞️ I’m looking to collaborate on free contributions
 - 📫 How to reach me https://www.linkedin.com/in/aravind-m-0a2167239
 
